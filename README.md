@@ -1,2 +1,2 @@
 # Loss_game
-Work in progress 
+Work in progress... 0.2
